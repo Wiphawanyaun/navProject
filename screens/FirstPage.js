@@ -32,25 +32,25 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    padding: 20,
+    padding: 20
   },
 
   heading: {
     fontSize: 25,
     textAlign: "center",
-    padding: 10,
+    padding: 10
   },
 
   textStyle: {
     textAlign: "center",
     fontSize: 16,
-    marginBottom: 20,
+    marginBottom: 20
   },
 
   textinputStyle: {
     padding: 10,
     backgroundColor: "#E3E3E3",
     width: 300,
-    marginBottom: 10,
+    marginBottom: 10
   },
 });

@@ -18,17 +18,17 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    padding: 20,
+    padding: 20
   },
 
   heading: {
     fontSize: 25,
     textAlign: "center",
-    padding: 10,
+    padding: 10
   },
 
   textStyle: {
     textAlign: "center",
-    fontSize: 16,
+    fontSize: 16
   },
 });
